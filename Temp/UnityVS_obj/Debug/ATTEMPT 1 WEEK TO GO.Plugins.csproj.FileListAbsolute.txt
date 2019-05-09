@@ -1,0 +1,21 @@
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.VR.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEngine.VR.xml
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_obj\Debug\ATTEMPT 1 WEEK TO GO.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\themr\OneDrive\Documents\Projects\University Projects\Leap Motion Project\Team Project Leap Motion\Team Project Leap Motion\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb

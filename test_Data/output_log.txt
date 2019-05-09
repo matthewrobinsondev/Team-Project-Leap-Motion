@@ -1,0 +1,62 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ATTEMPT 1 WEEK TO GO\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.437619 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at menuScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: b88 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.474243 ms
+
+Unloading 245 unused Assets to reduce memory usage. Loaded Objects now: 714.
+Total: 2.202792 ms (FindLiveObjects: 0.063705 ms CreateObjectMapping: 0.042116 ms MarkObjects: 0.633161 ms  DeleteObjects: 1.455669 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at menuScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.147051 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1227.
+Total: 1.789061 ms (FindLiveObjects: 0.101928 ms CreateObjectMapping: 0.111130 ms MarkObjects: 0.984249 ms  DeleteObjects: 0.589983 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at menuScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
